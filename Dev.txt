@@ -5,4 +5,6 @@ Orange
 Grapes
 Dates
 Black Grapes
+Blackberry
+Blueberry
 
